@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/476/trunk/src/clients/boblight-X11
+END
+grabber-xrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/393/trunk/src/clients/boblight-X11/grabber-xrender.cpp
+END
+flagmanager-X11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/393/trunk/src/clients/boblight-X11/flagmanager-X11.cpp
+END
+vblanksignal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/432/trunk/src/clients/boblight-X11/vblanksignal.cpp
+END
+grabber-base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/402/trunk/src/clients/boblight-X11/grabber-base.cpp
+END
+grabber-xgetimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/393/trunk/src/clients/boblight-X11/grabber-xgetimage.cpp
+END
+grabber-xrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/324/trunk/src/clients/boblight-X11/grabber-xrender.h
+END
+vblanksignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/392/trunk/src/clients/boblight-X11/vblanksignal.h
+END
+flagmanager-X11.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/324/trunk/src/clients/boblight-X11/flagmanager-X11.h
+END
+grabber-xgetimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/324/trunk/src/clients/boblight-X11/grabber-xgetimage.h
+END
+grabber-base.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/393/trunk/src/clients/boblight-X11/grabber-base.h
+END
+boblight-X11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/476/trunk/src/clients/boblight-X11/boblight-X11.cpp
+END

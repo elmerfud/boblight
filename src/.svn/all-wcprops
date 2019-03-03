@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/479/trunk/src
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/475/trunk/src/main.cpp
+END
+light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/303/trunk/src/light.cpp
+END
+configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/477/trunk/src/configuration.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/477/trunk/src/Makefile.am
+END
+configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/477/trunk/src/configuration.h
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/402/trunk/src/light.h
+END
+protocolversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/303/trunk/src/protocolversion.h
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/474/trunk/src/client.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/478/trunk/src/Makefile.in
+END
+libpath
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/6/trunk/src/libpath
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/474/trunk/src/client.h
+END

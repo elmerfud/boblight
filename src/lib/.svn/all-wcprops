@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/445/trunk/src/lib
+END
+boblight-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/296/trunk/src/lib/boblight-functions.h
+END
+boblight_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/445/trunk/src/lib/boblight_client.cpp
+END
+boblight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/414/trunk/src/lib/boblight.cpp
+END
+boblight_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/442/trunk/src/lib/boblight_client.h
+END
+boblight.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/300/trunk/src/lib/boblight.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/442/trunk/src/lib/options.h
+END

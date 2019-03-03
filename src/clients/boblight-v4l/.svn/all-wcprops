@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/479/trunk/src/clients/boblight-v4l
+END
+videograbber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/413/trunk/src/clients/boblight-v4l/videograbber.cpp
+END
+flagmanager-v4l.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/165/trunk/src/clients/boblight-v4l/flagmanager-v4l.h
+END
+boblight-v4l.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/479/trunk/src/clients/boblight-v4l/boblight-v4l.cpp
+END
+videograbber.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/413/trunk/src/clients/boblight-v4l/videograbber.h
+END
+flagmanager-v4l.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/332/trunk/src/clients/boblight-v4l/flagmanager-v4l.cpp
+END
