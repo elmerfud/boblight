@@ -36,9 +36,11 @@ void Daemonize()
     fprintf(stderr, "setsid(): %s", GetErrno().c_str());
 
   //route stdout and stderr to /dev/null
-  fclose(stdout);
-  stdout = fopen("/dev/null", "w");
-  fclose(stderr);
-  stderr = fopen("/dev/null", "w");
+  //fclose(stdout);
+  //stdout = fopen("/dev/null", "w");
+  freopen("/dev/null", "w", stdout);
+  //fclose(stderr);
+  //stderr = fopen("/dev/null", "w");
+  freopen("/dev/null", "w", stderr);
 }
 
